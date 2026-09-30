@@ -1,0 +1,5 @@
+psycopg2-binary>=2.9
+kafka-python>=2.0
+websocket-client>=1.7
+requests>=2.31
+python-dotenv>=1.0

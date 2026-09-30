@@ -1,0 +1,25 @@
+# Sekrety - nigdy nie commitowac
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI tymczasowe pliki
+*.pbix.tmp
+~$*.pbix
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
