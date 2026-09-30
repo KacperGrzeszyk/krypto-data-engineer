@@ -96,9 +96,7 @@ Otwórz `powerbi/Krypto_data_engineer.pbix`, odśwież dane. Szczegóły
 działania dynamicznego przełącznika granularności ("Okno czasowe") — patrz
 `powerbi/INSTRUKCJA_POWERBI.md`.
 
-> Plik `.pbix` w tym repo to punkt wyjściowy — podmień go na swoją lokalną,
-> naprawioną wersję (z wdrożonym Field Parameter) przed commitem, jeśli
-> jeszcze tego nie zrobiłeś.
+
 
 ## Dashboard
 
