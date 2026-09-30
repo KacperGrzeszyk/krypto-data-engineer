@@ -100,8 +100,8 @@ działania dynamicznego przełącznika granularności ("Okno czasowe") — patrz
 
 ## Dashboard
 
-![Dashboard](docs/screenshots/dashboard.png)
 
+![Dashboard](https://raw.githubusercontent.com/KacperGrzeszyk/krypto-data-engineer/main/docs/screenshots/Dashboard.png)
 
 
 ## Bezpieczeństwo / dobre praktyki
