@@ -104,8 +104,7 @@ działania dynamicznego przełącznika granularności ("Okno czasowe") — patrz
 
 ![Dashboard](docs/screenshots/dashboard.png)
 
-*(wrzuć swój zrzut ekranu do `docs/screenshots/dashboard.png`, żeby się tu
-wyświetlił)*
+
 
 ## Bezpieczeństwo / dobre praktyki
 
